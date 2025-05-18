@@ -1,0 +1,29 @@
+{
+    "folders": [
+        {
+            "path": "project8"
+        }
+    ],
+    "settings": {
+        "C_Cpp.default.configuration": "Thread",
+        "files.associations": {
+            "type_traits": "cpp",
+            "system_error": "cpp",
+            "array": "cpp",
+            "functional": "cpp",
+            "tuple": "cpp",
+            "utility": "cpp",
+            "bit": "cpp",
+            "cstddef": "cpp",
+            "string": "cpp",
+            "memory": "cpp",
+            "memory_resource": "cpp",
+            "string_view": "cpp",
+            "cmath": "cpp",
+            "limits": "cpp",
+            "stdexcept": "cpp",
+            "random": "cpp",
+            "thread": "cpp"
+        }
+    }
+}

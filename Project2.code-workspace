@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "project2"
+        }
+    ],
+    "settings": {
+        "C_Cpp.default.configuration": "SmartPointer" // 对应 project2 的配置名
+    }
+}

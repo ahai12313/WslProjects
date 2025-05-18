@@ -1,0 +1,3 @@
+/home/ahai/project/project4/build/CMakeFiles/TypeList.dir
+/home/ahai/project/project4/build/CMakeFiles/edit_cache.dir
+/home/ahai/project/project4/build/CMakeFiles/rebuild_cache.dir

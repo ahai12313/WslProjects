@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TypeList.dir/main.cpp.o -o TypeList  /usr/lib/x86_64-linux-gnu/libfmt.so.8.1.1 -Wl,--as-needed 

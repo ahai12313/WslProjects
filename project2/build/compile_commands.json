@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ahai/project/project2/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -I/home/ahai/project/project2/include -I/home/ahai/project/project2/tests  -o CMakeFiles/SmartPointer.dir/main.cpp.o -c /home/ahai/project/project2/main.cpp",
+  "file": "/home/ahai/project/project2/main.cpp"
+}
+]

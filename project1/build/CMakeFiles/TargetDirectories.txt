@@ -1,0 +1,3 @@
+/home/ahai/project/project1/build/CMakeFiles/MemoryPool.dir
+/home/ahai/project/project1/build/CMakeFiles/edit_cache.dir
+/home/ahai/project/project1/build/CMakeFiles/rebuild_cache.dir

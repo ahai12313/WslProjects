@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ahai/project/project3/build",
+  "command": "/usr/bin/c++ -DFMT_LOCALE -DFMT_SHARED -I/home/ahai/project/project3/include -I/home/ahai/project/project3/tests -std=c++17 -o CMakeFiles/Template.dir/main.cpp.o -c /home/ahai/project/project3/main.cpp",
+  "file": "/home/ahai/project/project3/main.cpp"
+}
+]

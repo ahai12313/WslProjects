@@ -1,0 +1,3 @@
+/home/ahai/project/project8/build/CMakeFiles/Thread.dir
+/home/ahai/project/project8/build/CMakeFiles/edit_cache.dir
+/home/ahai/project/project8/build/CMakeFiles/rebuild_cache.dir
