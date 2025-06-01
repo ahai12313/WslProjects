@@ -1,0 +1,60 @@
+{
+    "folders": [
+        {
+            "path": "project9"
+        }
+    ],
+    "settings": {
+        "C_Cpp.default.configuration": "Thread",
+        "files.associations": {
+            "type_traits": "cpp",
+            "system_error": "cpp",
+            "array": "cpp",
+            "functional": "cpp",
+            "tuple": "cpp",
+            "utility": "cpp",
+            "bit": "cpp",
+            "cstddef": "cpp",
+            "string": "cpp",
+            "memory": "cpp",
+            "memory_resource": "cpp",
+            "string_view": "cpp",
+            "cmath": "cpp",
+            "limits": "cpp",
+            "stdexcept": "cpp",
+            "random": "cpp",
+            "thread": "cpp",
+            "cctype": "cpp",
+            "clocale": "cpp",
+            "cstdarg": "cpp",
+            "cstdio": "cpp",
+            "cstdlib": "cpp",
+            "cstring": "cpp",
+            "ctime": "cpp",
+            "cwchar": "cpp",
+            "cwctype": "cpp",
+            "atomic": "cpp",
+            "compare": "cpp",
+            "concepts": "cpp",
+            "cstdint": "cpp",
+            "deque": "cpp",
+            "map": "cpp",
+            "unordered_map": "cpp",
+            "vector": "cpp",
+            "exception": "cpp",
+            "algorithm": "cpp",
+            "iterator": "cpp",
+            "numeric": "cpp",
+            "initializer_list": "cpp",
+            "iosfwd": "cpp",
+            "iostream": "cpp",
+            "istream": "cpp",
+            "new": "cpp",
+            "numbers": "cpp",
+            "ostream": "cpp",
+            "streambuf": "cpp",
+            "cinttypes": "cpp",
+            "typeinfo": "cpp"
+        }
+    }
+}
